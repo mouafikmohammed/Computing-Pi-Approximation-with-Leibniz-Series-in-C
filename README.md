@@ -5,8 +5,8 @@
 Pi=(1/1 - 1/3 + 1/5 - ... n)*4
    
 Let's take i= 1 to n
-If (i%2 == 0) {do subtraction operation}
-Else          {do addition operation}
+- if (i%2 == 0) {do subtraction operation}
+- else          {do addition operation}
    
    
 ```
