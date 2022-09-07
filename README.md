@@ -1,3 +1,3 @@
 # Computing Pi Approximation
 ## Computing Pi Approximation with Leibniz Series in C
-   <img src="Lei.jpg" width=400 />
+   <img src="Lei.png" width=400 />
